@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FONDO6999
+- 👀 I’m interested in my mom
+- 🌱 I’m currently learning C# C++
